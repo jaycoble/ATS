@@ -1,5 +1,5 @@
 {
-    "dbURI": "",
+    "dbURI": "mongodb+srv://jay:HEAzrzkqv8apx4zry@cluster0.zyun9.mongodb.net/cluster0?",
     "jwtsecret": "",
     "StripeAPIKey": ""
 }
